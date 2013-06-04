@@ -2,3 +2,12 @@
 /* If you are using the default media queries provided by Omega, these styles will also
  *  apply to the normal and widescreen layouts. You may override these styles in the normal 
  *  and widescreen CSS files as appropriate. */
+
+#zone-branding{
+   
+   background: url(../images/dniBannerNarrow.jpg) center top;
+   background-repeat:no-repeat;
+   width: auto;
+   height:225px;
+   display: block; margin-left: auto; margin-right: auto;
+}

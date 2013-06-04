@@ -1,1 +1,34 @@
 /* This file will hold styles for all layouts using the alpha grid (i.e. not the mobile layout). */
+
+body{
+   background-image: url(../images/bg.jpg);
+   background-size: cover;
+}
+
+#zone-branding{
+   
+   background: url(../images/dniBannerWide.jpg) center top;
+   background-repeat:no-repeat;
+   width: auto;
+   height:225px;
+   display: block; margin-left: auto; margin-right: auto;
+}
+
+
+#superfish-1{
+   background-image:  url(../images/contentBG.jpg);
+   background-size:   cover;
+}
+
+#zone-menu{
+   background-image:  url(../images/contentBG.jpg);
+   background-size:   cover;
+}
+
+#zone-content{
+   background-image:  url(../images/contentBG.jpg);
+   background-size:   cover;
+}
+.block-title{
+   display: none;
+}
