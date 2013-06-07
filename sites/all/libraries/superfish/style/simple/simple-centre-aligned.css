@@ -107,7 +107,7 @@
 .sf-menu.sf-style-simple-centre-aligned a,
 .sf-menu.sf-style-simple-centre-aligned a:visited  {
   color: #555555;
-  font: normal 12px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+  font: bold 12px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
   padding: 1.4em 1.5em;
   text-decoration: none;
   text-shadow: 1px 1px 0 #ffffff;

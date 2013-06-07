@@ -14,12 +14,6 @@ body{
    display: block; margin-left: auto; margin-right: auto;
 }
 
-
-#superfish-1{
-   background-image:  url(../images/contentBG.jpg);
-   background-size:   cover;
-}
-
 #zone-menu{
    background-image:  url(../images/contentBG.jpg);
    background-size:   cover;
