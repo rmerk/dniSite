@@ -19,10 +19,21 @@ body{
    background-size:   cover;
 }
 
-#zone-content{
+#zone-footer{
+   padding-top: 15px;
    background-image:  url(../images/contentBG.jpg);
    background-size:   cover;
 }
+
+#zone-content{
+   background-image:  url(../images/contentBG.jpg);
+   background-size:   cover;
+   padding-bottom: 15px;
+}
 .block-title{
    display: none;
+}
+
+hr{
+   size: 30;
 }
