@@ -1,3 +1,4 @@
+
 #footer-sitemap {
   margin: 0 1em;
 }
@@ -9,8 +10,8 @@
 
 #footer-sitemap ul li {
   float: left;
+  margin-right: 3em;
   list-style: none;
-  margin-right: 30px;
   text-align: center;
 }
 
