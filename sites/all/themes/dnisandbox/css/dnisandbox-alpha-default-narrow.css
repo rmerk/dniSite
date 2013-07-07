@@ -16,3 +16,8 @@
    padding-bottom: 30px;
    padding-top:    30px;
 }
+
+/*adjusts the location of the main-menu links*/
+#superfish-1{
+   margin-left: 2em;
+}

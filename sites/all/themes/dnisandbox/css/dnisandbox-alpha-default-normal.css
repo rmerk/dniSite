@@ -10,3 +10,8 @@
    height:225px;
    display: block; margin-left: auto; margin-right: auto;
 }
+
+/*adjusts the location of the main-menu links*/
+#superfish-1{
+   margin-left: 2em;
+}
