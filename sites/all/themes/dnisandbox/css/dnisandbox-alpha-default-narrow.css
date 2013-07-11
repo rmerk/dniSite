@@ -21,3 +21,12 @@
 #superfish-1{
    margin-left: 2em;
 }
+/*Added to remove the slideshow from this media query*/
+#region-sidebar-second{
+   display: none;
+}
+
+/*Added to center the main content for this region*/
+#region-content{
+   margin-left: 6em;
+}

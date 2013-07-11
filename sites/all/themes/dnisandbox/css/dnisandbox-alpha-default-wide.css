@@ -4,3 +4,13 @@
 #superfish-1{
    margin-left: 9em;
 }
+
+/*added to over-ride the disabling of the slide show in narrow media query*/
+#region-sidebar-second{
+   display: inline;
+}
+
+/*Added to over-ride the narrow media querry setting for main page content*/
+#region-content{
+   margin: auto;
+}
