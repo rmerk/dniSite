@@ -30,3 +30,8 @@
 #region-content{
    margin-left: 6em;
 }
+
+/*Added to remove footer logo image in narrow view*/
+#dniLogo{
+   display: none;
+}

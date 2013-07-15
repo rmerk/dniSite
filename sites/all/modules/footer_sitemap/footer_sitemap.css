@@ -4,15 +4,14 @@
 }
 
 #footer-sitemap ul {
+  float: left;
   margin: 0;
   padding: 0;
 }
 
 #footer-sitemap ul li {
-  float: left;
-  margin-right: 3em;
+  margin-right: 6em;
   list-style: none;
-  text-align: center;
 }
 
 #footer-sitemap ul li li {
@@ -62,4 +61,20 @@
 #footer-sitemap ul.menu li ul.menu li ul.menu li {
   font-weight: normal;
   padding-left: .4em;
+}
+
+/*Addded custom float for footer logo*/
+#dniLogo{
+  float: right;
+  clear: both;
+  margin-right: 5em;
+}
+
+/*Links div added to seperate main-menu from other content links in site map*/
+#linksDiv{
+  float: left;
+}
+
+#addressDiv{
+  float: left;
 }
