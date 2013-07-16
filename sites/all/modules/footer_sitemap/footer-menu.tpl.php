@@ -6,7 +6,7 @@
 ?>
 <div class="<?php print $class; ?>">
    <hr />
-   <img src="../../dniSite/sites/all/themes/dnisandbox/images/dniLogo.gif" id="dniLogo" />
+   <img src="../../sites/all/themes/dnisandbox/images/dniLogo.gif" id="dniLogo" />
    <?php print render($menu_output); ?>
 </div>
 <div id="linksDiv">
