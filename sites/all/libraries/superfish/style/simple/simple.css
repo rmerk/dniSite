@@ -103,13 +103,21 @@
 .sf-menu.sf-style-simple.sf-navbar li li.sfHover > ul {
   top: 38px;
 }
+/*Added a font family for main menu*/
+@font-face{
+font-family: Gputeks-Bold;
+src: url(../../../../themes/dnisandbox/fonts/Gputeks-Bold.ttf);
+
+}
 .sf-menu.sf-style-simple a,
 .sf-menu.sf-style-simple a:visited  {
   color: #555555;
-  font: normal 12px Arial, Helvetica, Tahoma, Verdana, Sans-serif;
+  font-family: Gputeks-Bold, Helvetica, Arial, sans-serif;
+  font-size: 11px;
   padding: 1.4em 1.5em;
   text-decoration: none;
   text-shadow: 1px 1px 0 #ffffff;
+
 }
 .sf-menu.sf-style-simple a:focus,
 .sf-menu.sf-style-simple a:hover,
