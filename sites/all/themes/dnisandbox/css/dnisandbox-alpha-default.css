@@ -12,6 +12,10 @@ body{
    background-size: cover;
 }
 
+#page-title{
+   display: none;
+}
+
 #zone-branding{
    
    background: url(../images/dniBannerWide.jpg) center top;
@@ -36,6 +40,10 @@ body{
    background-image:  url(../images/contentBG.jpg);
    background-size:   cover;
    padding-bottom: 15px;
+}
+/*Changed to edit the margins of the ul tags on the fisrt page*/
+ul{
+   margin-left: 60px;
 }
 
 .block-title{
