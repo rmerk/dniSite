@@ -61,10 +61,16 @@ body{
 }
 
 #edit-submitted-message{
-   -webkit-border-radius: 30px;
-   border-radius: 30px;
+   -webkit-border-radius: 10px;
+   border-radius: 10px;
    margin-left: 25px;
+   width: 500px;
 }
+   .grippie{/*added to fix the dragable bar under the message box.*/
+      margin-left: 25px;
+      width:   500px;
+   }
+   
 #edit-submit{
    margin-left:   20px;
 }

@@ -111,7 +111,7 @@ src: url(../../../../themes/dnisandbox/fonts/Gputeks-Bold.ttf);
 }
 .sf-menu.sf-style-simple a,
 .sf-menu.sf-style-simple a:visited  {
-  color: #555555;
+  color: #13253e;
   font-family: Gputeks-Bold, Helvetica, Arial, sans-serif;
   font-size: 11px;
   padding: 1.4em 1.5em;
@@ -124,7 +124,7 @@ src: url(../../../../themes/dnisandbox/fonts/Gputeks-Bold.ttf);
 .sf-menu.sf-style-simple a:active,
 .sf-menu.sf-style-simple li:hover > a,
 .sf-menu.sf-style-simple li.sfHover > a {
-  color: #222222;
+  color: #2d4ef6;
 }
 .sf-menu.sf-style-simple li li a,
 .sf-menu.sf-style-simple.sf-vertical a {
