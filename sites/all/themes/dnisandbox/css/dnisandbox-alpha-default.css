@@ -41,8 +41,52 @@ body{
    background-size:   cover;
    padding-bottom: 15px;
 }
+/*Added to customize the shape of the text field.*/
+#edit-submitted-first-name{
+   -webkit-border-radius: 30px;
+   border-radius: 30px;
+   margin-left: 25px;
+}
+
+#edit-submitted-last-name{
+   -webkit-border-radius: 30px;
+   border-radius: 30px;
+   margin-left: 25px;
+}
+
+#edit-submitted-e-mail-address{
+   -webkit-border-radius: 30px;
+   border-radius: 30px;
+   margin-left: 25px;
+}
+
+#edit-submitted-message{
+   -webkit-border-radius: 30px;
+   border-radius: 30px;
+   margin-left: 25px;
+}
+#edit-submit{
+   margin-left:   20px;
+}
+
+/*End customization for the shape of text fields*/
+
+/*Added to move the margins in line with text area fields.*/
+.description{
+   margin-left: 30px;
+}
+
+label{
+   margin-left: 30px;
+}
+/*End margin settings for contact us form.*/
+
 /*Changed to edit the margins of the ul tags on the fisrt page*/
 ul{
+   margin-left: 60px;
+}
+/*Changed the margin indent for the content div*/
+p{
    margin-left: 60px;
 }
 
