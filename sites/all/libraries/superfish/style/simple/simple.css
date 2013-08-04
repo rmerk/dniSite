@@ -112,7 +112,7 @@ src: url(../../../../themes/dnisandbox/fonts/Gputeks-Bold.ttf);
 .sf-menu.sf-style-simple a,
 .sf-menu.sf-style-simple a:visited  {
   color: #13253e;
-  font-family: Gputeks-Bold, Helvetica, Arial, sans-serif;
+  font-family: Gputeks-Bold, Helvetica, Arial, sans-serif;/*Added this to change the font family for the main menu*/
   font-size: 11px;
   padding: 1.4em 1.5em;
   text-decoration: none;

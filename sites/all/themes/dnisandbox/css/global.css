@@ -9,3 +9,19 @@
 #dniLogo{
    display: none;
 }
+/*Removed the node titles for the content section*/
+.node-title{
+   display: none;
+}
+
+.block-title{
+   display: none;
+}
+/*Styling the dropdown menu to add some flare*/
+#superfish-1-select{
+   width: 240px;
+   height: 34px;
+   overflow: hidden;
+   background: url(../images/down_arrow_select.jpg) no-repeat right #ddd;
+   border: 1px solid #ccc;
+}
