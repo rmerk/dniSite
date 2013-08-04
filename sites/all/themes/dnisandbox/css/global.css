@@ -19,9 +19,14 @@
 }
 /*Styling the dropdown menu to add some flare*/
 #superfish-1-select{
-   width: 240px;
+   width: 100%;
    height: 34px;
+   font-family: Gputeks-Bold, Helvetica, Arial, sans-serif;
+   padding-left: 10px;
    overflow: hidden;
    background: url(../images/down_arrow_select.jpg) no-repeat right #ddd;
    border: 1px solid #ccc;
+   margin-bottom: 1em;
+   -webkit-border-radius: 10px;
+    border-radius: 10px;
 }
