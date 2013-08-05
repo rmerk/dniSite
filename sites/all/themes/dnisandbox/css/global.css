@@ -13,7 +13,7 @@
 .node-title{
    display: none;
 }
-
+/*Removed the block titles for the content section*/
 .block-title{
    display: none;
 }
@@ -29,4 +29,8 @@
    margin-bottom: 1em;
    -webkit-border-radius: 10px;
     border-radius: 10px;
+}
+/*Removed the footer for optimum viewing pleasure.*/
+#footer-sitemap{
+   display: none;
 }
