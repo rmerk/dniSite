@@ -3,7 +3,7 @@
 
 /*Added to remove the slideshows from mobile first layout*/
 #region-sidebar-second{
-   display: none;
+   /*display: none;
 }
 /*Added to remove the logo from mobile first footer layout*/
 #dniLogo{
