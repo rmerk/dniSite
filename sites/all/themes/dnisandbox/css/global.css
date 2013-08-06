@@ -17,6 +17,11 @@
 .block-title{
    display: none;
 }
+/*Removed the page titles as they were not needed in the mobile layout.*/
+#page-title{
+   display: none;
+}
+
 /*Styling the dropdown menu to add some flare*/
 #superfish-1-select{
    width: 100%;

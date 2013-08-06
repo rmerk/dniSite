@@ -104,3 +104,8 @@ p{
 .node-title{
    display: none;
 }
+
+/*Removed the footer for optimum viewing pleasure.*/
+#footer-sitemap{
+   display: inline;
+}
