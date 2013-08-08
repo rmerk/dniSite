@@ -91,6 +91,10 @@ label{
 ul{
    margin-left: 60px;
 }
+/*This changes the line-height for the what we offer page*/
+#wwoffer{
+   line-height: 3em;
+}
 /*Changed the margin indent for the content div*/
 p{
    margin-left: 60px;
